@@ -3,6 +3,7 @@ import Container from '../Container';
 
 const Navbar = () => {
     return (
+        <
         <nav className="bg-blue-500 text-white shadow-md">
             <Container>
                 <div className="flex justify-between items-center p-4">
