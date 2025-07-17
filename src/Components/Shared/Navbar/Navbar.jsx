@@ -3,14 +3,14 @@ import Container from '../Container';
 
 const Navbar = () => {
     return (
-        <
+        
         <nav className="bg-blue-500 text-white shadow-md">
             <Container>
                 <div className="flex justify-between items-center p-4">
                     {/* Left side - Logo */}
                     <div className="flex items-center space-x-2">
                         <FaFacebookMessenger className="text-2xl" />
-                        <span className="font-bold text-xl">Bytes</span>
+                        <span className="font-bold text-xl">tybets</span>
                     </div>
 
                     {/* Middle - Search bar */}
