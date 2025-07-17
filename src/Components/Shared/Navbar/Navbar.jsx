@@ -9,7 +9,7 @@ const Navbar = () => {
                     {/* Left side - Logo */}
                     <div className="flex items-center space-x-2">
                         <FaFacebookMessenger className="text-2xl" />
-                        <span className="font-bold text-xl">Messenger</span>
+                        <span className="font-bold text-xl">Bytes</span>
                     </div>
 
                     {/* Middle - Search bar */}
